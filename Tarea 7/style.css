@@ -1,0 +1,54 @@
+#appBg {
+    height: 520px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#appBg form {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0,0);
+}
+
+#appBg input[type=textfield] {
+    height: 25%;
+    width: 270px;
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 60px;
+    border: 0;
+    text-align: right;
+    outline: none;
+}
+
+#appBg input[type=button] {
+    width: 22%;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: black;
+    padding: 18px;
+    margin: 3px;
+    border:0;
+    border-radius: 100%;
+}
+
+#appBg input[type=reset] {
+    
+    width: 90%;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: black;
+    padding: 18px;
+    margin: 3px 15px;
+    border:0;
+    border-radius: 15px;
+       
+}
